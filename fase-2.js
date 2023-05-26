@@ -229,7 +229,7 @@ function espinho(params) {
   
         if(t == " F"){
           window.close();
-          window.open('index.html');
+          window.open('inical.html');
         }
   
         if(t == " #")
@@ -274,7 +274,7 @@ function espinho(params) {
 
         if(t == " F"){
           window.close();
-          window.open('index.html')
+          window.open('inical.html')
         }
 
         if(t == " O"){
