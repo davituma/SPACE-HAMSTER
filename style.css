@@ -1,0 +1,23 @@
+body{
+    background-color: darkgrey;
+}
+
+
+h1{
+    text-align: center;
+    margin-top: 300px;
+    color: darkviolet;
+    size: 500px;
+    font-family: fantasy;
+    text-shadow: 5px 7px 2px black ;
+    font-size: 100px;
+    
+}
+p{
+    text-align: center;
+    color: gold;
+    size: 100px;
+    font-family: fantasy;
+    text-shadow: 3px 5px 1px black ;
+    font-size: 50px;
+}
